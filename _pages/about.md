@@ -7,12 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+Welcome! I’m Zheng Yu, an MSc student specializing in Artificial Intelligence for Biomedicine and Healthcare at University College London. My academic and professional path reflects a deep-seated passion for harnessing AI to address some of the most pressing challenges in healthcare, with a particular focus on advancing the fight against cancer.
 
-Welcome! My name is Zheng Yu, and I am currently pursuing an MSc in Artificial Intelligence for Biomedicine and Healthcare at University College London (UCL). My academic and professional journey is driven by a deep passion for leveraging AI to tackle critical challenges in healthcare, particularly in the fight against cancer.
+During my undergraduate studies at McGill University, I had the privilege of being mentored by Professor [Archer Yi Yang](https://www.math.mcgill.ca/yyang/), whose guidance has been invaluable. I’m deeply grateful for his support and we continue to remain closely as friend even after graduating.
 
-I am fortunate to have been advised by Professor [Archer Yi Yang](https://www.math.mcgill.ca/yyang/) during my undergraduate studies at McGill University. I really appreciate his help and still remain closely after my graduation.
-
-My work focuses on developing and applying advanced AI methodologies, such as multimodal learning and generative models, to enhance disease prediction and diagnosis. I aspire to bridge the gap between cutting-edge AI research and its real-world impact on medicine and healthcare.
-
-Feel free to explore my projects, publications, and experiences showcased here, and don't hesitate to connect with me for collaboration or to discuss exciting ideas!
+Feel free to explore my projects, publications, and experiences shared here. I’d love to connect, collaborate, or discuss innovative ideas with like-minded individuals!
