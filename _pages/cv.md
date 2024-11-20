@@ -11,73 +11,72 @@ redirect_from:
 
 # Education
 * **M.Sc. in Artificial Intelligence for Biomedicine and Healthcare**  
-  *University College London, UK*  
+  *University College London, United Kingdom*  
   *Sep. 2024 - Sep. 2025 (expected)*  
 
 * **B.Sc. in Computer Science, Honors**  
   *McGill University, Canada*  
   *Sep. 2020 - May 2024*  
-  - Graduated with First Class Honors in Computer Science 
+  - Earned First Class Honors for exceptional academic performance in Computer Science  
 
 ---
 
 # Research Experience
-* **Spring 2023: Research Assistant**  
-  *McGill University*  
-  - Assisted in the development of machine learning models for tumor metastasis prediction  
-  - Supervisor: Professor [Yi Yang](https://www.math.mcgill.ca/yyang/)
+* **Research Assistant**  
+  *McGill University | Spring 2023*  
+  - Contributed to machine learning model development for predicting tumor metastasis  
+  - Collaborated closely with Professor [Yi Yang](https://www.math.mcgill.ca/yyang/)
 
-* **Winter 2024: Research Assistant**
-  *University of Southern California*
-  - Focusing on Generative AI and Foundation Models for AI for Science (AI4Science)
-  - Supervisor: Professor [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/)
+* **Research Assistant**  
+  *University of Southern California | Winter 2024*  
+  - Explored Generative AI and foundational models in the context of AI for Science (AI4Science)  
+  - Supervised by Professor [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/)
 
 ---
+
 # Work Experience
-* **Summer 2022: Software Engineer**
-  [Shanghai Hongpu corp](https://www.hongpucorp.com/#/HomePage)
-  - Optimized algorithms for downloading files ot the server. 2 Hours used to be spent for downloading a single file, but 2 seconds is all you need after I improved it with hashmap.
-  - Solved a long-lasting task of the company
-  - Work is highly recognized by my manager
+* **Software Engineer Intern**  
+  [Shanghai Hongpu Corporation](https://www.hongpucorp.com/#/HomePage) | Summer 2022  
+  - Drastically improved server file download times from 2 hours to 2 seconds by optimizing algorithms with a hashmap approach  
+  - Solved a longstanding technical bottleneck that significantly enhanced operational efficiency  
+  - Earned commendation and recognition from management for delivering impactful solutions  
 
 ---
 
 # Skills
 * **Frameworks:**  
-  PyTorch, TensorFlow, Django
+  PyTorch, TensorFlow, Django  
 
 * **Programming Languages:**  
-  Python, Bash, Java, Ocaml, C, C++, R, html
+  Python, Bash, Java, OCaml, C, C++, R, HTML  
 
 ---
 
 # Projects
 
-### 
+### Handwritten Digit Recognition with CustomMLP  
+*Developer | Sep. 2023 – 2024*  
+- Designed and implemented a Multilayer Perceptron (MLP) from scratch using NumPy for handwritten digit recognition (MNIST).  
 
+### Multimodal Alzheimer’s Disease Detection  
+*Researcher | 2023 – Present*  
+- Developed a multimodal model combining mid-axial, sagittal, and coronal MRI images with numeric data, leveraging custom ResNet for image analysis and linear layers for tabular data.  
+- Investigating additional biomarkers and incorporating attention mechanisms to enhance predictive accuracy.  
 
-### Handwritten Digit Recognition with CustomMLP
-*Developer | Sep. 2023 - 2024*  
-- Developed a high-performance Multilayer Perceptron (MLP) from scratch using only NumPy for MNIST digit recognition.  
-
-### Multimodel Alzheimer's Disease Detection
-*Researcher | 2023 - present*
-- Combine mid parts of axial, sagittal and cornal images with numeric data using a Multimodel containing custom Resnet for images and simple linear layer for numeric data
-- Researching more factors which could affect Alzheimer's Disease and try to add attention on them.
-
-### Chest X-ray Classification for Pneumonia Detection
+### Chest X-ray Classification for Pneumonia Detection  
 *Developer | Oct. 2024*  
-- Built a custom CNN, achieving outstanding validation accuracy.  
-- Implemented Batch Normalization and Dropout techniques to prevent overfitting.  
+- Built a custom Convolutional Neural Network (CNN) achieving high validation accuracy for X-ray-based pneumonia detection.  
+- Applied techniques such as Batch Normalization and Dropout to enhance model robustness and prevent overfitting.  
 
-### Diabetic Retinopathy Detection
+### Diabetic Retinopathy Detection  
 *Kaggle Participant | Nov. 2024*  
-- Created a hybrid CNN architecture using EfficientNet and ResNet.  
-- Experimented with CosineAnnealingLR scheduler for enhanced training optimization.  
+- Designed a hybrid model integrating EfficientNet and ResNet to classify retinal images for diabetic retinopathy detection.  
+- Experimented with CosineAnnealingLR scheduler to improve training dynamics and model convergence.  
 
 ---
 
 # Service and Leadership
-* Currently enrolled in the MSc AI for Biomedicine and Healthcare program at UCL.
-* Participated in various Kaggle competitions, emphasizing practical applications of deep learning in healthcare. Our group is looking for technically strong, motivated students passionate about advancing the frontiers of AI for health and medicine to join us!
+* Currently pursuing an MSc in Artificial Intelligence for Biomedicine and Healthcare at UCL.  
+* Engaged in Kaggle competitions to advance practical applications of AI in healthcare.  
+* Actively encouraging and mentoring motivated individuals passionate about the intersection of AI, health, and medicine to join collaborative projects.  
 
