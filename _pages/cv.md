@@ -9,80 +9,85 @@ redirect_from:
 
 {% include base_path %}
 
-# Zheng Yu  
-[UCL, Department of Computer Science](https://www.ucl.ac.uk) • London, United Kingdom  
+# Education
+* **M.Sc. in Artificial Intelligence for Biomedicine and Healthcare**  
+  *University College London (UCL), UK*  
+  *Sep. 2024 - Sep. 2025 (expected)*  
 
-📧 [zheng.yu3@mail.mcgill.ca](mailto:zheng.yu3@mail.mcgill.ca) |  
-🔗 [linkedin.com/in/zheng-yu](https://linkedin.com/in/zheng-yu) |  
-💻 [github.com/YuZhengYYDS](https://github.com/YuZhengYYDS)  
-*Updated: November 17, 2024*  
-
----
-
-## Current Position  
-**University College London (UCL)**  
-London, UK  
-**Student, MSc in Artificial Intelligence for Biomedicine and Healthcare**  
-Sep. 2024 - Sep. 2025  
+* **B.Sc. in Computer Science (Honors)**  
+  *McGill University, Canada*  
+  *Sep. 2020 - May 2024*  
+  - Graduated with First Class Honors  
 
 ---
 
-## Education  
-**McGill University**  
-Montreal, Canada  
-**Bachelor of Science in Computer Science (Honors)**  
-Sep. 2020 - May 2024  
-- First Class Honors Standing  
+# Work Experience
+* **Spring 2023: Research Assistant**  
+  *McGill University*  
+  - Assisted in the development of machine learning models for tumor metastasis prediction  
+  - Supervisor: Professor [Name Placeholder]
+
+* **Summer 2021: Teaching Assistant**  
+  *SuZhou EA*  
+  - Provided one-on-one teaching in IGCSE Math and Computer Science  
+  - Received the Excellent Teaching Assistance Award  
 
 ---
 
-## Awards and Honors  
-- **Excellent Teaching Assistance Award**  
-  Awarded by SuZhou EA for one-to-one teaching of IGCSE Math and Computer Science  
-  *July 2021*  
+# Skills
+* **Frameworks:**  
+  PyTorch, TensorFlow  
 
-- **Programme de Bourses d’Excellence**  
-  Scholarship awarded by the Québec Higher Education for outstanding academic achievements  
-  *Sep. 2021*  
-
-- **First Class Honors in Computer Science**  
-  Graduated with First Class Honors Standing, recognizing academic excellence in Computer Science  
-  *May 2024*  
+* **Programming Languages:**  
+  Python, Bash, Java, Ocaml, C, C++, R  
 
 ---
 
-## Publications  
-- **Predicting drug-drug interactions using heterogeneous graph neural networks: HGNN-DDI**  
-  *Hongbo Liu, Siyi Li, Zheng Yu*  
-  Proceedings of the 4th International Conference on Signal Processing and Machine Learning  
-  [Link to the publication](https://doi.org/10.54254/2755-2721/79/20241329)  
+# Publications
+<ul>
+  {% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
+</ul>
 
 ---
 
-## Projects  
-### Handwritten Digit Recognition with CustomMLP  
+# Projects
+### Handwritten Digit Recognition with CustomMLP
 *Developer | Sep. 2023 - Present*  
-- Developed a high-performance Multilayer Perceptron (MLP) from scratch using only NumPy, focusing on handwritten digit recognition (MNIST).  
-- Implemented a robust stochastic gradient descent (SGD) learning algorithm, enabling efficient training of a feedforward neural network.  
-- Engineered a complete backpropagation mechanism using low-level NumPy operations.  
+- Developed a high-performance Multilayer Perceptron (MLP) from scratch using only NumPy for MNIST digit recognition.  
 
-### Chest X-ray Classification for Pneumonia Detection  
+### Chest X-ray Classification for Pneumonia Detection
 *Developer | Oct. 2024*  
-- Developed a custom Convolutional Neural Network (CNN) to classify chest X-ray images into "NORMAL" and "PNEUMONIA" classes, achieving a validation accuracy of 95.72%.  
-- Improved the model using Batch Normalization, Dropout, and Weight Initialization techniques to address overfitting.  
-- Utilized a WeightedRandomSampler to balance the dataset and ensure fair representation during training.  
-- Visualized and analyzed training progress using Weights and Biases (wandb).  
+- Built a custom CNN, achieving 95.72% validation accuracy.  
+- Implemented Batch Normalization and Dropout techniques to prevent overfitting.  
 
-### Diabetic Retinopathy Detection using Eye Fundus Images  
+### Diabetic Retinopathy Detection
 *Kaggle Participant | Nov. 2024*  
-- Participated in the APTOS Blindness Detection Kaggle competition to detect diabetic retinopathy from retinal images.  
-- Built a CNN architecture combining custom and pretrained models like EfficientNet and ResNet.  
-- Experimented with advanced learning rate scheduling techniques using CosineAnnealingLR in PyTorch.  
-- [Link to the report](https://github.com/YuZhengYYDS/Blindness-Detection/blob/main/report.pdf)  
+- Created a hybrid CNN architecture using EfficientNet and ResNet.  
+- Experimented with CosineAnnealingLR scheduler for enhanced training optimization.  
 
 ---
 
-## Skills  
-- **Frameworks**: PyTorch, TensorFlow  
-- **Programming Languages**: Python, Bash, Java, Ocaml, C, C++, R  
+# Talks
+<ul>
+  {% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}
+</ul>
+
+---
+
+# Teaching
+<ul>
+  {% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
+</ul>
+
+---
+
+# Service and Leadership
+* Currently enrolled in the MSc AI for Biomedicine and Healthcare program at UCL.
+* Participated in various Kaggle competitions, emphasizing practical applications of deep learning in healthcare.
 
