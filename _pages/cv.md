@@ -43,23 +43,19 @@ redirect_from:
 
 ---
 
-# Publications
-<ul>
-  {% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
-</ul>
-
----
-
 # Projects
 ### Handwritten Digit Recognition with CustomMLP
 *Developer | Sep. 2023 - Present*  
 - Developed a high-performance Multilayer Perceptron (MLP) from scratch using only NumPy for MNIST digit recognition.  
 
+### Multimodel Alzheimer's Disease Detection
+*Researcher | 2023 - present*
+- Combine mid parts of axial, sagittal and cornal images with numeric data using a Multimodel containing custom Resnet for images and simple linear layer for numeric data
+- Researching more factors which could affect Alzheimer's Disease and try to add attention on them.
+
 ### Chest X-ray Classification for Pneumonia Detection
 *Developer | Oct. 2024*  
-- Built a custom CNN, achieving 95.72% validation accuracy.  
+- Built a custom CNN, achieving outstanding validation accuracy.  
 - Implemented Batch Normalization and Dropout techniques to prevent overfitting.  
 
 ### Diabetic Retinopathy Detection
@@ -69,25 +65,7 @@ redirect_from:
 
 ---
 
-# Talks
-<ul>
-  {% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}
-</ul>
-
----
-
-# Teaching
-<ul>
-  {% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
-</ul>
-
----
-
 # Service and Leadership
 * Currently enrolled in the MSc AI for Biomedicine and Healthcare program at UCL.
-* Participated in various Kaggle competitions, emphasizing practical applications of deep learning in healthcare.
+* Participated in various Kaggle competitions, emphasizing practical applications of deep learning in healthcare. 
 
