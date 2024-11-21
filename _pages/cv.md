@@ -24,8 +24,8 @@ redirect_from:
 # Research Experience
 * **Research Assistant**  
   *McGill University | Spring 2023*  
-  - Contributed to machine learning model development for predicting tumor metastasis  
-  - Collaborated closely with Professor [Yi Yang](https://www.math.mcgill.ca/yyang/)
+  - Contributed to machine learning model development for Drug Design using Graph neural networks 
+  - Supervised by Professor [Yi Yang](https://www.math.mcgill.ca/yyang/)
 
 * **Research Assistant**  
   *University of Southern California | Winter 2024*  
@@ -37,18 +37,33 @@ redirect_from:
 # Work Experience
 * **Software Engineer Intern**  
   [Shanghai Hongpu Corporation](https://www.hongpucorp.com/#/HomePage) | Summer 2022  
-  - Drastically improved server file download times from 2 hours to 2 seconds by optimizing algorithms with a hashmap approach  
+  - Drastically improved server file download times from 2 hours to 2 seconds by optimizing algorithms with a dynamic programming
   - Solved a longstanding technical bottleneck that significantly enhanced operational efficiency  
   - Earned commendation and recognition from management for delivering impactful solutions  
 
 ---
-
 # Skills
 * **Frameworks:**  
   PyTorch, TensorFlow, Django  
 
 * **Programming Languages:**  
   Python, Bash, Java, OCaml, C, C++, R, HTML  
+
+---
+
+# Awards and Honors
+
+* **Excellent Teaching Assistance Award**  
+  SuZhou EA | SuZhou, China | July 2021  
+  - Awarded for one-to-one teaching in IGCSE Math and Computer Science.
+
+* **Programme de Bourses d’Excellence**  
+  Québec Higher Education Ministry | Montreal, Canada | September 2021  
+  - Scholarship awarded for outstanding academic achievements.
+
+* **First Class Honors in Computer Science**  
+  McGill University | Montreal, Canada | May 2024  
+  - Graduated with First Class Honors Standing, recognizing academic excellence in Computer Science.
 
 ---
 
