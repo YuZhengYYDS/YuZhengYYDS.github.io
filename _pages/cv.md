@@ -10,9 +10,15 @@ redirect_from:
 {% include base_path %}
 
 # Education
+* **PhD Student**  
+  *Sun Yat-sen University, China*  
+  *Sep. 2026 – Present*  
+  - Joint doctoral training with Shenzhen Loop Area Institute (SLAI).  
+
 * **M.Sc. in Artificial Intelligence for Biomedicine and Healthcare**  
   *University College London, United Kingdom*  
-  *Sep. 2024 - Sep. 2025 (expected)*  
+  *2024 – 2025*  
+  - Awarded with Distinction.  
 
 * **B.Sc. in Computer Science, Honors**  
   *McGill University, Canada*  
@@ -91,7 +97,7 @@ redirect_from:
 ---
 
 # Service and Leadership
-* Currently pursuing an MSc in Artificial Intelligence for Biomedicine and Healthcare at UCL.  
+* Currently pursuing a PhD at Sun Yat-sen University, jointly trained with Shenzhen Loop Area Institute (SLAI).  
 * Engaged in Kaggle competitions to advance practical applications of AI in healthcare.  
 * Actively encouraging and mentoring motivated individuals passionate about the intersection of AI, health, and medicine to join collaborative projects.  
 

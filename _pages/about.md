@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my web corner! I’m Zheng Yu, an current MSc student specializing in Artificial Intelligence for Biomedicine and Healthcare at University College London. I graduated from McGill University with a First Class Honour in Computer Science. 
+Welcome to my web corner! I’m Zheng Yu, a PhD student at Sun Yat-sen University, jointly trained with Shenzhen Loop Area Institute (SLAI), since September 2026. I completed my MSc in Artificial Intelligence for Biomedicine and Healthcare at University College London with Distinction in 2025. I graduated from McGill University with First Class Honors in Computer Science. 
 
 During my undergraduate studies at McGill University, I had the privilege of being mentored by Professor [Archer Yi Yang](https://www.math.mcgill.ca/yyang/), whose guidance has been invaluable. I’m deeply grateful for his support and we continue to remain closely as friend even after graduating.
 

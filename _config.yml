@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Zheng Yu / Homepage"
 title_separator          : "-"
 name                     : &name "Zheng Yu"
-description              : &description "Master student in Artificial Intelligence in Biomed and Healthcare at University College London."
+description              : &description "PhD student at Sun Yat-sen University, jointly trained with Shenzhen Loop Area Institute (SLAI)."
 url                      : https://yuzhengyyds.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YuZhengYYDS/YuZhengYYDS.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "me.png"
   name             : "Zheng Yu"
   pronouns         : # example: "she/her"  
-  bio              : "Master student in Artificial Intelligence in Biomed and Healthcare at University College London."
+  bio              : "PhD student at Sun Yat-sen University, jointly trained with Shenzhen Loop Area Institute (SLAI)."
   location         : "Earth"
-  employer         : "University College London"
+  employer         : "Sun Yat-sen University / Shenzhen Loop Area Institute"
   uri              : # URL
   email            : "zheng.yu3@mail.mcgill.ca" 
 
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : https://github.com/YuZhengYYDS #"academicpages"
+  github           : YuZhengYYDS #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
