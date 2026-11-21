@@ -21,7 +21,7 @@ repository               : "YuZhengYYDS/YuZhengYYDS.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.png"
+  avatar           : "profile-2026.jpg"
   name             : "Zheng Yu"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at Sun Yat-sen University, jointly trained with Shenzhen Loop Area Institute (SLAI)."
@@ -45,7 +45,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : YuZhengYYDS #"academicpages"
-  kaggle           : # Username  
+  kaggle           : "zaynyu" # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media

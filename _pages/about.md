@@ -7,10 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my web corner! I’m Zheng Yu, a PhD student at Sun Yat-sen University, jointly trained with Shenzhen Loop Area Institute (SLAI), since September 2026. I completed my MSc in Artificial Intelligence for Biomedicine and Healthcare at University College London with Distinction in 2025. I graduated from McGill University with First Class Honors in Computer Science. 
+I am a PhD student at Sun Yat-sen University, jointly trained with Shenzhen Loop Area Institute (SLAI), since September 2026. I work on machine learning systems and language model reasoning, with a focus on understanding and improving the numerical reliability of large-model training and inference across hardware platforms.
 
-During my undergraduate studies at McGill University, I had the privilege of being mentored by Professor [Archer Yi Yang](https://www.math.mcgill.ca/yyang/), whose guidance has been invaluable. I’m deeply grateful for his support and we continue to remain closely as friend even after graduating.
+My background is in computer science and biomedical AI. I earned an MSc in Artificial Intelligence for Biomedicine and Healthcare with Distinction from University College London in 2025, and a BSc in Computer Science with First Class Honors from McGill University.
 
- **I'm interested in projects of AI4Science! Robust, Trustworthy AI and LLM**
+I welcome opportunities to connect and collaborate on reliable AI systems, language model reasoning, and AI for science.
 
-Feel free to explore my projects, publications, and experiences shared here. I’d love to connect, collaborate, or discuss innovative ideas. Please feel free to contact me if you find me as a good match!
+## Projects
+
+### [NumericBridge](https://numericbridge.com/)
+
+Cross-stack numerical consistency: precision evaluations and repair records across hardware and software stacks, with a case library and hardware-platform comparisons.
+
+## Kaggle
+
+**[Kaggle Notebooks Expert · ZaynYu](https://www.kaggle.com/zaynyu)**
+
+- **Notebook medals:** 1 gold, 1 silver, and 6 bronze.
+- **Gold-medal AIMO3 notebook:** [40/50 GPT-OSS-120B TIR + DynamicTime + KernelPool](https://www.kaggle.com/code/zaynyu/40-50-gpt-oss-120b-tir-dynamictime-kernelpool), with **600+ community upvotes**.
+
+*Profile achievements checked in November 2026. Medals refer to notebooks, not competition placements.*

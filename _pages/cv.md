@@ -40,6 +40,9 @@ redirect_from:
 
 ---
 
+{% comment %}
+Work Experience temporarily hidden; original content retained for restoration.
+
 # Work Experience
 * **Software Engineer Intern**  
   [Shanghai Hongpu Corporation](https://www.hongpucorp.com/#/HomePage) | Summer 2022  
@@ -48,6 +51,8 @@ redirect_from:
   - Earned commendation and recognition from management for delivering impactful solutions  
 
 ---
+{% endcomment %}
+
 # Skills
 * **Frameworks:**  
   PyTorch, TensorFlow, Django  
