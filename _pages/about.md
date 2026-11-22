@@ -23,7 +23,11 @@ Cross-stack numerical consistency: precision evaluations and repair records acro
 
 **[Kaggle Notebooks Expert · ZaynYu](https://www.kaggle.com/zaynyu)**
 
-- **Notebook medals:** 1 gold, 1 silver, and 6 bronze.
-- **Gold-medal AIMO3 notebook:** [40/50 GPT-OSS-120B TIR + DynamicTime + KernelPool](https://www.kaggle.com/code/zaynyu/40-50-gpt-oss-120b-tir-dynamictime-kernelpool), with **600+ community upvotes**.
+**Code ranking:** #355 of 57,207 ranked users (**top 0.62%**), with a peak rank of **#233**. <small>As of November 22, 2026.</small>
 
-*Profile achievements checked in November 2026. Medals refer to notebooks, not competition placements.*
+<div class="kaggle-medals" style="display:flex;flex-wrap:wrap;align-items:center;gap:.35em 1em">
+  <strong>Notebook medals:</strong>
+  <span style="display:inline-flex;align-items:center;gap:.35em"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="#3f648f" d="M5 2h5l3 8H8z"/><path fill="#759bc1" d="M14 2h5l-3 8h-5z"/><circle cx="12" cy="15" r="6.25" fill="#f6cf6b" stroke="#825600" stroke-width="1.25"/><path d="m12 11.6 1 2 2.2.3-1.6 1.6.4 2.2-2-1-2 1 .4-2.2-1.6-1.6 2.2-.3z" fill="#825600"/></svg>1 gold</span>
+  <span style="display:inline-flex;align-items:center;gap:.35em"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="#3f648f" d="M5 2h5l3 8H8z"/><path fill="#759bc1" d="M14 2h5l-3 8h-5z"/><circle cx="12" cy="15" r="6.25" fill="#d4dde5" stroke="#4b5e6d" stroke-width="1.25"/><path d="m12 11.6 1 2 2.2.3-1.6 1.6.4 2.2-2-1-2 1 .4-2.2-1.6-1.6 2.2-.3z" fill="#4b5e6d"/></svg>1 silver</span>
+  <span style="display:inline-flex;align-items:center;gap:.35em"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="#3f648f" d="M5 2h5l3 8H8z"/><path fill="#759bc1" d="M14 2h5l-3 8h-5z"/><circle cx="12" cy="15" r="6.25" fill="#e8b08b" stroke="#7b4027" stroke-width="1.25"/><path d="m12 11.6 1 2 2.2.3-1.6 1.6.4 2.2-2-1-2 1 .4-2.2-1.6-1.6 2.2-.3z" fill="#7b4027"/></svg>6 bronze</span>
+</div>
