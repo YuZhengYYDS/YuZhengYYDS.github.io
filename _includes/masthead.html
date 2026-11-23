@@ -1,13 +1,14 @@
 {% include base_path %}
+{% assign primary_nav = site.data.navigation.main %}
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
+      <nav{% if primary_nav.size > 0 %} id="site-nav"{% endif %} class="greedy-nav">
+        {% if primary_nav.size > 0 %}<button><div class="navicon"></div></button>{% endif %}
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
-          {% for link in site.data.navigation.main %}
+          {% for link in primary_nav %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
               {% else %}
@@ -16,7 +17,7 @@
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
-        <ul class="hidden-links hidden"></ul>
+        {% if primary_nav.size > 0 %}<ul class="hidden-links hidden"></ul>{% endif %}
       </nav>
     </div>
   </div>
