@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Sun Yat-sen University, jointly trained with Shenzhen Loop Area Institute (SLAI), since September 2026. I work on machine learning systems and language model reasoning, with a focus on understanding and improving the numerical reliability of large-model training and inference across hardware platforms.
+Since September 2026, I have been a PhD student jointly trained by Shenzhen Loop Area Institute and Sun Yat-sen University. I work on machine learning systems and language model reasoning, with a focus on understanding and improving the numerical reliability of large-model training and inference across hardware platforms.
 
-My PhD advisors are [Liang Zhang](https://scst.sysu.edu.cn/teacher/ZhangLiang) at Sun Yat-sen University and [Jiale Han](https://hanjiale.github.io/) at SLAI. Xiang Li supervises my work as a research assistant at the Shenzhen Research Institute of Big Data (SRIBD).
+My PhD advisors are [Jiale Han](https://hanjiale.github.io/) at Shenzhen Loop Area Institute and [Liang Zhang](https://scst.sysu.edu.cn/teacher/ZhangLiang) at Sun Yat-sen University. Xiang Li supervises my work as a research assistant at the Shenzhen Research Institute of Big Data (SRIBD).
 
 My background is in computer science and biomedical AI. I earned an MSc in Artificial Intelligence for Biomedicine and Healthcare with Distinction from University College London in 2025, and a BSc in Computer Science with First Class Honors from McGill University.
 
